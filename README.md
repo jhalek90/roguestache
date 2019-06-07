@@ -1,4 +1,4 @@
-# roguestache
+# Rogue Stache
 
 https://store.steampowered.com/app/513250/Rogue_Stache/
 
