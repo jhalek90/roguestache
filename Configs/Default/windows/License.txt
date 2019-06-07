@@ -1,0 +1,34 @@
+THIS END USER LICENSE AGREEMENT APPLIES TO ALL USE OF THIS APPLICATION.
+
+Scope
+-----
+You may:
+
+Install and use this Application for personal use;
+
+You must not:
+
+use, copy, transfer, distribute modify, adapt, merge, translate, decompile, disassemble, or reverse engineer the Application or part of it except as expressly permitted by this Licence;
+remove, modify, or tamper with any copyright, trademark or other notice;
+use the Application for any illegal, unlawful or immoral purposes.
+
+
+Term
+----
+This License will end automatically if you breach any of the terms.
+When this License ends you must stop all use of the Application and destroy and erase any copies you have.
+
+
+Liability
+---------
+
+The game's developer does not warrant that the operation of the Appication will be uninterrupted or error free or that errors can be corrected. You install and use the Application at your own risk and in no event will the developer be liable to you for any loss or damage of any kind including lost profits or other consequential loss arising from the use of or inability to use the Application or from errors or deficiencies in it whether caused by negligence or otherwise.
+To the maximum extent permitted by law, the developer excludes liability for all warranties, conditions and other terms which but for this notice would have effect.
+
+
+General
+-------
+The rights granted in this license are non-exclusive.
+This license does not affect your statutory rights as a consumer.
+
+Click “ACCEPT” and accept these terms to install and use this Application. If you do not accept them terms you may not continue with the installation and you must not install, use or run this software on this or any other computer.
