@@ -9,8 +9,7 @@ Rogue Stache is an action-adventure platforming roguelike which draws heavy insp
 
 # Comments
 The code base is rather messy, a victim of feature-creep, and a "quick project" mentality.
-The project took me a little over 2 years to solo develop. 
-It was created in GameMaker Studio 1.4
+The project took me a little over 2 years to solo develop in GameMaker Studio 1.4
 
 
 -Wubs
